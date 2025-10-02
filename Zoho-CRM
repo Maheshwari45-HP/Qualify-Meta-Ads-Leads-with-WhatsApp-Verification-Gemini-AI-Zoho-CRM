@@ -291,7 +291,7 @@
         576
       ],
       "parameters": {
-        "url": "https://api.twilio.com/2010-04-01/Accounts/ACed2fa1cd85b71409f3bc20b311c0b087/Messages.json",
+        "url": "https://api.twilio.com/2010-04-01/Accounts//Messages.json",
         "method": "POST",
         "options": {},
         "sendBody": true,
